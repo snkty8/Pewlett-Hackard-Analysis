@@ -103,3 +103,12 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp_no;
 
 SELECT * FROM mentorship_eligibilty;
+
+
+-- Mentor eligible title count
+SELECT COUNT(emp_no), title
+INTO mentorship_ready_titles
+FROM mentorship_eligibilty
+GROUP BY title 
+ORDER BY COUNT(title) DESC;
+
