@@ -43,3 +43,6 @@ Just like we created a percentage of employees eligible for retirement, we can a
 
 A few questions to ask:
 1. What departments are the employees in that are eligible for the mentorship program: 
+    The results are displayed below:
+
+    ![image](https://github.com/snkty8/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/mentorship_ready_titles.png)
