@@ -46,3 +46,8 @@ A few questions to ask:
     The results are displayed below:
 
     ![image](https://github.com/snkty8/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/mentorship_ready_titles.png)
+
+2.  Who are the employees eligible for the mentorship program that are currently engineers?
+    Table below gives that information:
+
+    ![image](https://github.com/snkty8/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/engineer_team_table.png)
